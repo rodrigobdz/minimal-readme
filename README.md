@@ -33,4 +33,4 @@ Thank those who helped make this possible.
 
 ## License
 
-[MIT](LICENSE) © [rodrigobdz](https://rodrigobdz.github.io/).
+[MIT](LICENSE) © [rodrigobdz](https://github.com/rodrigobdz).
